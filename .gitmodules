@@ -2,3 +2,7 @@
 	path = API-2-semestre
 	url = https://github.com/C0demain/API-2-semestre
 	branch = main
+[submodule "Databases"]
+	path = Databases
+	url = https://github.com/C0demain/Databases
+	branch = main
