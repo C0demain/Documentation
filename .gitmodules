@@ -1,0 +1,4 @@
+[submodule "API-2-semestre"]
+	path = API-2-semestre
+	url = https://github.com/C0demain/API-2-semestre
+	branch = main
