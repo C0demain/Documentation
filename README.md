@@ -62,11 +62,6 @@ Como parte da API do 2° semestre do curso de análise e desenvolvimento de sist
   - Eclipse
   - Canva
 
-## Diagrama Entidade Relacionamento
-<div align=center>
-<img src=documentosProjeto/der.jpg width=80% height=80% align=center></img>
-</div>
-
 <h2>Vídeo Sprint Review 1</h2>
 <div align="center">
 <a href="https://youtu.be/SU2rMJp9-ew">Link para o Youtube</a>
