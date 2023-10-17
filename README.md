@@ -4,9 +4,7 @@
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
-    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+    <a href="#entregas">Entregas</a>
 </p>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
@@ -18,7 +16,7 @@ Como parte da API do 2° semestre do curso de análise e desenvolvimento de sist
 ## :dart: Objetivos da Sprint
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
 - **RF 01:** Carregamento de arquivos
-- **RF 02:** conversa e resposa com o chatbot
+- **RF 02:** conversa e resposta com o chatbot
 - **RNF 01:** Utilizar Java
 
 <span id="entregas">
