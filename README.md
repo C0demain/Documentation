@@ -15,7 +15,7 @@ Como objetivo da segunda Sprint foi definido a criação de um sistema de cadast
     
 ## :dart: Objetivos da Sprint
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
-- **RF 07:** upload de arquivos de outros formatos, pdf
+- **RF 07:** upload de arquivos de outros formatos
 - **RF 08:** opção de carregar mais de um arquivo ao mesmo tempo
 
 
@@ -32,8 +32,8 @@ Para extrair e entender os desejos do cliente, foi construído um protótipo ini
 </div>
 
 
-### RF 07: upload de arquivos de outros foramtos
-Este requisito se trata da possibilidade de carregar e utilizar arquivos pdf com o bot, podendo fazer perguntas 
+### RF 07: upload de arquivos de outros formatos
+Este requisito se trata da possibilidade de carregar e utilizar arquivos se outros formatos alem de txt com o bot, podendo fazer perguntas 
 
 ### RF 08: opção de carregar mais de um arquivo 
 Este requisito se trata de o usuario ter a opção de carregar somente um arquivo ou caso deseje carregar 2 ou mais 
