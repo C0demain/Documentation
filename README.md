@@ -9,7 +9,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-Como objetivo da segunda Sprint foi definido a criação de um sistema de cadastro e login para acesso ao bot, com esse sistema foi definido uma tela de registro de atividade dos usuarios, afim de ter controle dos arquivos que entraram no sistema. Outro aspecto levantado foi a melhoria na geração de respostas do bot.
+Como objetivo da terceira Sprint foi definido a funcionalidade de de carregar arquivos de outro tipo além de TXT junto da funcionalidade de carregar mais de um arquivo simultaneamente podendo utilizar o bot com os mesmos.
 
 <span id="objetivos">
     
