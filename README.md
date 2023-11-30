@@ -28,7 +28,7 @@ Para extrair e entender os desejos do cliente, foi construído um protótipo ini
 
 <div align="center">
 
-![demo](./demo-sprint2.gif)
+![demo](./demo%20sprint%204.gif)
 </div>
 
 
