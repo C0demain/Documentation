@@ -1,18 +1,18 @@
-# CodeMain - 2° semestre
-Projeto de API do 2° semestre
 
-## O que é o C0deMain?
-C0deMain, é um time de desenvolvimento web do 2°Semestre de Análise e Desenvolvimento da FATEC São José dos Campos - Prof. Jessen Vidal. A equipe possui como objetivo principal desenvolver  um  sistema  desktop de um bot que lê e interpreta arquivos, e baseando-se neles fornece respostas a qualquer pergunta.
+![logo](documentos/ParrotLogo.png)
 
-# Projeto
+## O que é o Parrot AI?
+O Parrot AI é um chatbot avançado construído em Java, impulsionado pela poderosa biblioteca langchain. Sua principal habilidade reside na capacidade de compreender e responder perguntas detalhadas relacionadas a um arquivo específico. Com o uso do processamento de linguagem natural, este chatbot oferece interações inteligentes e contextuais, permitindo aos usuários extrair informações precisas e relevantes do conteúdo do arquivo carregado.
+
+# 🎯 Projeto
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-Como parte da API do 2° semestre do curso de análise e desenvolvimento de sistemas, da faculdade Fatec São José dos Campos, um desafio é proposto aos alunos. O desafio proposto foi a criação de um chat bot utilizando a linguagem de programação java junto da biblioteca [langchain4j](https://github.com/langchain4j), responsável por fazer a leitura, embedding e interpretação do arquivo desejado.
+O desafio do segundo semestre consiste na criação de um chatbot em Java, utilizando a biblioteca langchain4j, capaz de ler, interpretar e responder a perguntas sobre arquivos específicos. Este desafio proposto pela disciplina de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos visa desenvolver as habilidades dos alunos na aplicação prática de processamento de linguagem natural para interações inteligentes e contextualizadas com dados contidos nos arquivos fornecidos.
 
-# Cronograma
+# ➯ Cronograma
 <div align="center"> 
   
-![backlog](backlog.png)
+![backlog](documentos/Planejamento.png)
 
 </div>
 
@@ -24,7 +24,7 @@ Como parte da API do 2° semestre do curso de análise e desenvolvimento de sist
 | -------- |-------- |-------- |-------- |
 |**Mateus Madeira**|Scrum Master|[@GitHub](https://github.com/mafemad)|[@Linkedin](https://www.linkedin.com/in/mateus-ferreira-madeira)
 |**Pedro Kajiya**|Product Owner|[@GitHub](https://github.com/kajiyap)|[@Linkedin](https://www.linkedin.com/in/pedro-santos-kajiya-65763b260/)
-|**Abner Machado**|Desenvolvedor|[@GitHub](https://github.com/abner-machado)|[@Linkedin](https://www.linkedin.com/in/abner-douglas-a70a9b199/)
+|**Abner Machado**|Desenvolvedor|[@GitHub](https://github.com/abnerdouglas)|[@Linkedin](https://www.linkedin.com/in/abner-douglas-a70a9b199/)
 |**Bruno Silvério**|Desenvolvedor|[@GitHub](https://github.com/BrunoVieira30)|[@Linkedin](https://www.linkedin.com/in/bruno-vieira-b999a2224/)
 |**Cauã Dezidera**|Desenvolvedor|[@GitHub](https://github.com/CauaDezidera)|[@Linkedin](https://www.linkedin.com/in/cauã-dezidera-375736275/) 
 |**Enzo Pereira**|Desenvolvedor|[@Github](https://github.com/Enzopereira01) | [@Linkedin](https://www.linkedin.com/in/enzo-pereira-13331b272/)
@@ -35,25 +35,25 @@ Como parte da API do 2° semestre do curso de análise e desenvolvimento de sist
   
 </div>
 
-## 🔧 Requisitos funcionais
+## ➯ Requisitos funcionais
 
   - Linguagem Java para back-end e front-end (Requisito Fatec);
   - Sistema desktop intuitivo, simples e prático para facilitar a absorção do conteúdo;
   - Criar um registro de usuários;
   - Criar um chatbot capaz de ler, interpretar e responder as mais diversas perguntas.
 
-## 🔧 Requisitos não funcionais
+## ➯ Requisitos não funcionais
 
  - Documentação via Github;
  - DER (Diagrama de entidade relacionamento);
 
-## 🛠 Tecnologias utilizadas</h2>
+## ➯ Tecnologias utilizadas</h2>
 
   - Java
   - MySQL
   - Gradle
   
-## 🛠 Ferramentas utilizadas</h2>
+## ➯ Ferramentas utilizadas</h2>
 
   - Excel
   - Power Point
@@ -61,6 +61,7 @@ Como parte da API do 2° semestre do curso de análise e desenvolvimento de sist
   - Figma
   - Eclipse
   - Canva
+
 
 <h2>Vídeo Sprint Review 1</h2>
 <div align="center">
