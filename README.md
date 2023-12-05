@@ -15,18 +15,18 @@ Como objetivo da segunda Sprint foi definido a criação de um sistema de cadast
     
 ## :dart: Objetivos da Sprint
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
-- **RF 03:** cadastro de usuario
-- **RF 04:** login para usuarios cadastrados
-- **RF 05:** tela de registro de atividades
-- **RF 06:** otimização de respostas do bot
-- **RNF 02:** Utilizar MYSQL para banco de dados
+- **RF 03:** cadastro de usuário.
+- **RF 04:** login para usuários cadastrados.
+- **RF 05:** tela de registro de atividades.
+- **RF 06:** otimização de respostas do bot.
+- **RNF 02:** Utilizar MYSQL para banco de dados.
 
 <span id="entregas">
         
 ## :heavy_check_mark: Entregas
 Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints e User Stories, através de comunicação direta entre o P.O. e o cliente.
 
-Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo, escrito utilizando React e com a integração das funcionalidades acordadas para a primeira sprint pode ser observado a seguir:
+O front-end da aplicação permaneceu igual a da primeira sprint, porém houve a criação do sistema de cadastro e login, e pode ser observado a seguir:
 
 <div align="center">
 
