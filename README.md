@@ -16,8 +16,7 @@ Como objetivo da terceira Sprint foi definido a funcionalidade de de carregar ar
 ## :dart: Objetivos da Sprint
 Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
 - **RF 07:** upload de arquivos de outros formatos
-- **RF 08:** opção de carregar mais de um arquivo ao mesmo tempo
-
+- **RF 08:** tela de registro e conferir arquivos carregados
 
 <span id="entregas">
         
@@ -28,15 +27,15 @@ Para extrair e entender os desejos do cliente, foi construído um protótipo ini
 
 <div align="center">
 
-![demo](./demo-sprint2.gif)
+![demo](./demo-sprint3.gif)
 </div>
 
 
 ### RF 07: upload de arquivos de outros formatos
 Este requisito se trata da possibilidade de carregar e utilizar arquivos se outros formatos alem de txt com o bot, podendo fazer perguntas 
 
-### RF 08: opção de carregar mais de um arquivo 
-Este requisito se trata de o usuario ter a opção de carregar somente um arquivo ou caso deseje carregar 2 ou mais 
+### RF 08: tela de registro e conferir arquivos carregados
+Este requisito se trata de o usuario ter a opção de visualizar os registros e conferir os arquivos carregados antes de ir para a tela do chatbot
 
 
 
